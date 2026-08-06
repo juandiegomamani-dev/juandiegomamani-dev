@@ -1,4 +1,4 @@
-# Juan Diego Mamani — Desarrollador y Administrador de Sistemas
+# Juan Diego Mamani Huanaco — Desarrollador y Administrador de Sistemas
 
 Soy un profesional en administración de sistemas y desarrollo con experiencia en automatización, operación de servicios y despliegue de aplicaciones. Me enfoco en entregar soluciones confiables y mantenibles, alineadas con buenas prácticas de infraestructura y automatización.
 
@@ -13,7 +13,7 @@ Resumen profesional
 Proyectos destacados
 
 - kubernetes — Ejemplos y configuraciones para despliegue y orquestación de contenedores (Kubernetes).
-  https://github.com/juandiegomamani-dev/kubernetes
+  https://github.com/juandiegomamani-dev/kubernetes](https://github.com/juandiegomamani-dev/Kubernetes-WordPress-MariaDB-Monitoring-Stack
 
 - Squirrelmail (PHP) — Adaptación y mantenimiento de un cliente web de correo. (MIT)
   https://github.com/juandiegomamani-dev/Squirrelmail
